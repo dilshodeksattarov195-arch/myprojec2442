@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcarse",
+        "uuid": 20056146,
+        "checksum": "m9pvif"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
